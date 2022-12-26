@@ -1,0 +1,77 @@
+~/home/kdreddy/Desktop/Project_Revised/
+
+$ python search_engine_10476150.py
+
+Search term: a
+Result: ('https://en.wikipedia.org/wiki/Data', 34)
+
+Search term: at
+Result: ('https://en.wikipedia.org/wiki/Data', 1)
+
+Search term: the
+Reseult: ('https://en.wikipedia.org/wiki/Data', 52)
+		 ('https://stevens.smartcatalogiq.com/en/2021-2022/academic-catalog/courses/cs-computer-science/600/cs-600/', 1)
+
+Search term: berrics
+Result: N/A
+
+Search term: her
+Result: N/A
+
+Search term: hers
+Result: N/A
+
+Search term: between
+Result: ('https://en.wikipedia.org/wiki/Data', 5)
+
+Search term: yourself
+Result: N/A
+
+Search term: but
+Result: ('https://en.wikipedia.org/wiki/Data', 6)
+		('https://en.wikipedia.org/wiki/Data', 1)
+
+Search term: thing
+Result: ('https://en.wikipedia.org/wiki/Data', 1)
+
+Search term: is
+Result: ('https://en.wikipedia.org/wiki/Data', 10)
+
+Search term: my
+Result: N/A
+
+Search term: we
+Result: ('https://en.wikipedia.org/wiki/Data', 1)
+
+Search term: e
+Result: ('https://en.wikipedia.org/wiki/Data', 7)
+
+Search term: f
+Result: ('https://en.wikipedia.org/wiki/Data', 1)
+
+Search term: g
+Result: ('https://en.wikipedia.org/wiki/Data', 7)
+
+Search term: h
+Result: ('https://en.wikipedia.org/wiki/Data', 1)
+
+Search term: i
+Result: ('https://en.wikipedia.org/wiki/Data', 1)
+
+Search term: j
+Result: ('https://en.wikipedia.org/wiki/Data', 3)
+
+Search term: 
+Result: N/A
+
+Search term: k
+Result: ('https://en.wikipedia.org/wiki/Data', 1)
+
+Search term: l
+Result: ('https://en.wikipedia.org/wiki/Data', 4)
+
+Search term: m
+Result: ('https://en.wikipedia.org/wiki/Data', 2)
+
+Search term: nope
+Result: N/A
